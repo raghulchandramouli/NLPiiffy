@@ -2,6 +2,9 @@
 
 **NLPiffy** This project comprises of 3 different NLP technique all put togather as an ML ToolKit
 
+
+![Screenshot (97)](https://github.com/user-attachments/assets/db34e484-bc18-40a7-8005-539b4c86d33d)
+
 ## Features
 
 - **ToKenizer:** This uses a verbose tokenizer mechanic to generate tokens and lemma's
